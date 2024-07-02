@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    ;
+}
+.banner{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(0, 132, 70);
+    color: #ddd;
+    display: flex;
+    align-items: center;
+    padding: 0 5%;
+}
+.Collection{
+    display: flex;
+    margin-left: 20px;
+    
+   
+}
+.item{
+    margin-left: 40px;
+    list-style: none;
+    font-family: arial black;
+    
+   
+}
+.banner img{
+  width: 100px;
+  height: 70px; 
+
+
+}
+ .collection_two{
+    display: flex;
+    margin-left: 370px;
+    font-size: 22px;
+
+}
+.percon{
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+ .container{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    
+ }  
+  
+
+.container p{
+    color: rgb(11, 117, 50);
+    font-family: arial black;
+    font-size: 55px;
+    margin-left: 10%;
+    flex-wrap: wrap;
+   
+    
+ 
+    
+    
+
+}
+.container
+button{
+    width: 450px;
+    height: 50px;
+    font-size: 20px;
+    font-family: arial black;
+    color: white;
+    background-color: rgb(0, 132, 70);
+    border: none; 
+    margin-left: 35% ;
+    margin-top: 5%;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+  
+    
+
+}
+.container
+img{
+    width: 100%;
+    
+     
+} 
+.wakanda{
+    background: url(/image/wakanda-hero.png)no-repeat center/cover;
+    height: 650px;
+}
+
+.video{
+    width: 50%;
+    height: 650px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+.video h1{
+    margin-top: 50px;
+    font-family: arial black;
+}
+.video p{
+margin-top: 20px;
+font-size: 18px;
+font-family: arial;
+
+}
+.sprite_video{
+    background: url(/image/new-sprite-vid.png)no-repeat center/cover;
+    width: 100%;
+    height: 450px;
+    margin-top: 50px;
+}
+.Bakal{
+    width: 95%;
+    display: flex;
+    margin: auto;
+    height: 550px;
+    flex-wrap: wrap;
+   
+    
+}
+.bakal_one{
+    background: url(/image/heat-happens.png)no-repeat center/cover;
+    width: 50%;
+    
+    justify-content: center;
+    
+    
+}
+.bakal_in{
+    width: 60%;
+    margin-left: 40%;
+    flex-wrap: wrap;
+}
+.bakal_one p{
+    font-size: 45px;
+    margin-top: 25px;
+    color: white;
+    text-align: start;
+    font-family: arial black;
+    
+
+}
+.bakal_one 
+button{
+    width: 200px;
+    height: 40px;
+    margin-top: 80px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    font-family: arial black;
+    
+}
+.Bakal_two{
+    background: url(/image/clear-sprite-bottle.jpg)no-repeat center/cover;
+    width: 50%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.sprite_end{
+    margin-top: 70px;
+    width: 100%;
+    height: 500px;
+    background-color:rgb(0, 132, 70) ;
+    display: flex;
+}
+.sprite_end
+ .logo{
+    background: url(/image/mobile_sprite_logo_nav.png)no-repeat center/cover;
+    width: 150px;
+    height: 100px;
+    transform: translateY(140px) translateX(200px); 
+}
+.connect{
+    width: 400px;
+    height: 200px;
+    font-family: arial black;
+    margin-left: 20%;
+    margin-top: 100px;
+    color: white;
+}
+.connect
+.items{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 50px;
+    
+}
+.product{
+    width: 400px;
+    height: 200px;
+   
+    margin-left: 10%;
+    margin-top: 100px;
+    color: white;
+    font-family: ARIAL black;
+}
+.collection1{
+    margin-top: 20px;
+    text-align: 10px;
+    line-height: 30px;
+}
+.end{
+    width: 100%;
+    background-color:rgb(0, 132, 70) ;
+    margin-top: -100px;
+   
+    color: white;
+    font-family: arial black;
+    text-align: center;
+}
+.end p{
+    margin-top: 20px;
+}
